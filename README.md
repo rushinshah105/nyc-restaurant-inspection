@@ -28,6 +28,8 @@
 
 * **Dataset Owner** : NYC OpenData
 
-* **Detailed Code** : 
+* **Detailed Code (Interactive Version via nbviewer)** : https://nbviewer.jupyter.org/github/rushinshah105/nyc-restaurant-inspection/blob/main/NYC_Restaurant_Inspection.ipynb
+
+* **Detailed Code (Github Version)** : https://github.com/rushinshah105/nyc-restaurant-inspection/blob/main/NYC_Restaurant_Inspection.ipynb
 
 * **Main Findings** : 
