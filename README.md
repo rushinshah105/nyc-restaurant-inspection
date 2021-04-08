@@ -18,7 +18,7 @@
 
 * **Python Version**: 3.7
 
-* **Packages**: pandas, numpy, folium, matplotlib, seaborn, geopandas
+* **Packages**: pandas, numpy, folium, matplotlib, seaborn
 
 * **Dataset** : https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
 
