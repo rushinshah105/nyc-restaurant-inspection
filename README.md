@@ -9,9 +9,17 @@
 
 * For this analysis, I performed following steps
   * Data Extraction
+      * Downloaded and loaded data NYC Restaurant Inspection Data from NYC Opendata    
   * Data Cleaning/Feature Engineering
+      * Replaced spaces with underscores in column names
+      * Cleaned up special characters
+      * Updating Data Types
+      * Cleaned and feature engineered variables assocaited with cuisine
   * Exploratory Data Analysis
+      * Reviewed the dataset 
+      * Flitered records and dropped columns based on exploratory data analysis and null values review 
   * Data Visualizations for final findings
+      * Created maps, sunburst and barcharts to answer various questions  
 
 
 # Code and Dataset Details
