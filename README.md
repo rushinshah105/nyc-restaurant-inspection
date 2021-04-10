@@ -3,9 +3,9 @@
 * Analyzed dataset containing every sustained or not yet adjudicated violation citation from every full or special program inspection conducted up to three years prior to the most recent inspection for restaurants and college cafeterias in an active status.
 
 * I was specifically interested in finding out answers to following questions for Manhattan
-  *	Identify restaurants with “no violations” and restaurants with “most violations”
-  *	Identify best and worst restaurants by cuisine (see if anything surprises you)
-  *	Identify how inspection and grading have changed over time (2017 - 2019) for different cuisines
+  *	Which restaurants have “no violations” (green) or “most violations” (red) and where are they located?
+  *	Which cuisine restaurants are most clean vs least clean (see if anything surprises you)?
+  *	How inspection and violations have changed for Manhattan restaurants over time (2017 - 2019) for different cuisines?
 
 * For this analysis, I performed following steps
   * Data Extraction
@@ -36,8 +36,8 @@
 
 * **Dataset Owner** : NYC OpenData
 
-* **Detailed Code (Interactive Version via nbviewer)** : https://nbviewer.jupyter.org/github/rushinshah105/nyc-restaurant-inspection/blob/main/NYC_Restaurant_Inspection.ipynb
+* **Detailed Code (Interactive Version via nbviewer)** : https://nbviewer.jupyter.org/github/rushinshah105/nyc-restaurant-inspection/blob/main/NYC_Restaurant_Inspection_Analysis.ipynb
 
-* **Detailed Code (Github Version)** : https://github.com/rushinshah105/nyc-restaurant-inspection/blob/main/NYC_Restaurant_Inspection.ipynb
+* **Detailed Code (Github Version)** : https://github.com/rushinshah105/nyc-restaurant-inspection/blob/main/NYC_Restaurant_Inspection_Analysis.ipynb
 
 * **Main Findings** : 
