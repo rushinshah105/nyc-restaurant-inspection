@@ -40,4 +40,4 @@
 
 * **Detailed Code (Github Version)** : https://github.com/rushinshah105/nyc-restaurant-inspection/blob/main/NYC_Restaurant_Inspection_Analysis.ipynb
 
-* **Main Findings** : 
+* **Main Findings / Medium Blog** : https://rushin10.medium.com/visiting-nyc-where-to-find-cleanest-restaurants-and-cuisine-types-in-manhattan-4edbeb285e6a
